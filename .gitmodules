@@ -1,4 +1,3 @@
 [submodule "ttf2mesh-sys/ttf2mesh"]
 	path = ttf2mesh-sys/ttf2mesh
 	url = https://github.com/sean-gallagher-redvest/ttf2mesh
-	branch = feature/support-osx
